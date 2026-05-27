@@ -65,7 +65,7 @@ Ananda Saikia
 
 ---
 
-# 9. Run the Project
+# Run the Project
 
 ```bash
 npm install
