@@ -9,6 +9,7 @@ const auth_routes = require('./router/auth_users').authenticated;
 const app = express();
 
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 app.use(

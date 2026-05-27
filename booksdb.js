@@ -1,7 +1,7 @@
 const books = {
   "1": {
-    title: "Node.js Basics",
-    author: "John Doe",
+    title: "Things Fall Apart",
+    author: "Chinua Achebe",
     reviews: {}
   },
   "2": {
