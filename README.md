@@ -62,9 +62,6 @@ npm run dev
 
 Ananda Saikia
 ```
-
----
-
 # Run the Project
 
 ```bash
